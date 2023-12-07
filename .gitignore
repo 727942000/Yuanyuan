@@ -1,0 +1,13 @@
+*.plastic
+*.vs
+*.sln
+*.conf
+*.csproj
+*.vsconfig
+[Ll]ibrary
+[Ll]ogs
+[Oo]bj
+[Pp]ackages
+[Uu]serSettings
+[Aa]ssets
+[Pp]rojectSettings
